@@ -6,3 +6,6 @@ Kelly Jacobson, Dhanush Vasudevan, Samuel Moore, Zachary Witte, Austin Buller, J
 
 ## Advisors:
 Hiep Vo (Andrew Vo), Hung Phan, Ali Jannesari
+
+## Meeting Link
+https://iastate.webex.com/meet/vohi01
