@@ -6,8 +6,9 @@
 - N-Gram, Count Vectorizing , more
 
 # Different specific Vectorization models
-- Smoothing and TF-IDF
-- Different POS tags and word embedding models: NLTK, Stanford_NLP, Spacy, Glove, openNLP
+- Smoothing, SIF and TF-IDF: Traditional embeddings
+- Different POS tags and word embedding models: NLTK, Stanford_NLP, Spacy, Glove, openNLP: Neural Network Embeddings
+- How is the Neural network approaches different from traditional approaches
 
 # New datasets
 - Find on kaggle.com or other sources
