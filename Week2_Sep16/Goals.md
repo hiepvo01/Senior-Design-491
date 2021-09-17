@@ -16,5 +16,5 @@
 # Evaluate word embedding results
 - Search evaluation methods for unsupervised learning
 
-* Remember to cite the articles as you research
-* Always try to relate to software documentation data and how it may be affected by your choice
+** Remember to cite the articles as you research
+** Always try to relate to software documentation data and how it may be affected by your choice
